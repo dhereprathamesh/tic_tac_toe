@@ -1,0 +1,66 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ-related files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio build folders
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# Flutter-generated localization files
+.l10n/
+
+# Linux and macOS-related
+linux/flutter/generated_plugin_registrant.cc
+macos/Flutter/ephemeral/
+
+# Windows-specific
+windows/flutter/generated_plugin_registrant.cc
+
+# Web-specific
+web/flutter/generated_plugin_registrant.dart
+
+# Generated files (do not commit)
+*.g.dart
+*.freezed.dart
+
+# Test coverage reports
+coverage/
+
+# Firebase-related
+.firebase/
+.firebasehosting/
